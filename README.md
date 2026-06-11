@@ -297,17 +297,3 @@ More flexibility for custom logic (enriched alerts, conditional restarts, chaini
 | Security posture | No public DB/EC2 exposure, encrypted storage, IAM roles throughout |
 
 ---
-
-## Optional Add-ons (Planned / In Progress)
-
-- [ ] Terraform — full IaC for reproducible deployments
-- [ ] GitHub Actions CI/CD pipeline
-- [ ] Blue-Green deployment via ALB weighted target groups
-- [ ] Multi-region DR setup
-- [ ] EKS migration path for container orchestration
-
----
-
-## Notes
-
-All infrastructure was deployed and validated manually through the AWS Console before being translated into code. Screenshots and configuration details documented throughout the build process.
