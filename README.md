@@ -1,7 +1,5 @@
 # Scalable-Secure-Observable-Microservices-Platform-on-AWS
 
-# AWS Microservices Platform — Production-Grade Cloud Architecture
-
 A scalable, secure, and observable microservices infrastructure built on AWS. Covers everything from VPC design and compute autoscaling to centralized monitoring, SNS alerting, and Lambda-driven self-healing automation.
 
 ---
